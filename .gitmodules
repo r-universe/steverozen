@@ -5,3 +5,6 @@
 [submodule "ICAMS"]
 	path = ICAMS
 	url = https://github.com/steverozen/icams
+[submodule "fastrc"]
+	path = fastrc
+	url = https://github.com/steverozen/fastrc

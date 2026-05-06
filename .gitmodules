@@ -5,3 +5,6 @@
 [submodule "fastrc"]
 	path = fastrc
 	url = https://github.com/steverozen/fastrc
+[submodule "mSigPlot"]
+	path = mSigPlot
+	url = https://github.com/steverozen/msigplot

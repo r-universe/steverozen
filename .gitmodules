@@ -8,3 +8,6 @@
 [submodule "mSigPlot"]
 	path = mSigPlot
 	url = https://github.com/steverozen/msigplot
+[submodule "mSigSpectra"]
+	path = mSigSpectra
+	url = https://github.com/steverozen/msigspectra
